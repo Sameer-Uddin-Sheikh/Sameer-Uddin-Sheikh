@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <title>Sameer Bano Qabil 3.O </title>
+</head>
+<body>
+
+    <Center>  
+        <h1 style="background-color:#aeec04; padding: 20px; font-size: 40px;"> 
+            The Periodic Table </h1>
+            <h2 style="background-color:#ee940e; padding: 15px; font-size: 20px;"> 
+                Sameer Uddin Sheikh </br> Roll No. 170726 </h2>
+        <table style="text-align: Center" border="1" bordercolor="Black" width="1000">
+
+        <tr>
+            <td bgcolor="Orange"> <font color="green"> 1</br> H</font></td>
+            <td style="empty-cells: hide" colspan="16">  </td>
+            <td bgcolor="White"> <font color="green"> 2</br> He </font> </td>
+        </tr>
+
+        <tr>
+            <td bgcolor="Pink"> <font color="Black"> 3</br> Li</font> </td>
+            <td bgcolor="lightblue"> <font color="Black">4</br> Be </td>
+            <td style="empty-cells: hide" colspan="10"> </td>
+            <td bgcolor="#B56510"> <font color="Black">5</br> B </td>
+            <td bgcolor="Orange"> <font color="black">6</br> C </td>
+            <td bgcolor="Orange"> <font color="green"> 7</br> N </td>
+            <td bgcolor="Orange"> <font color="green"> 8</br> O </td>
+            <td bgcolor="lightyellow"> <font color="green">9</br> F </td>
+            <td bgcolor="White"> <font color="green">10</br> Ne </td>
+        </tr>
+
+        <tr>
+            <td bgcolor="Pink"> <font color="Black"> 11</br> Na </td>
+            <td bgcolor="lightblue"> <font color="Black">12</br> Mg </td>
+            <td style="empty-cells: hide"colspan="10"> </td>
+            <td bgcolor="Green"> <font color="Black">13</br> Al </td>
+            <td bgcolor="#B56510"> <font color="Black">14</br> Si </td>
+            <td bgcolor="Orange"> <font color="green">15</br> P </td>
+            <td bgcolor="Orange"> <font color="green">16</br> S </td>
+            <td bgcolor="lightyellow"> <font color="green">17</br> Cl </td>
+            <td bgcolor="White"> <font color="green">18</br> Ar </td>
+        </tr>
+
+        <tr>
+            <td bgcolor="Pink"> <font color="Black">19</br> K </td>
+            <td bgcolor="lightblue"> <font color="Black">20</br> Ca </td>
+            <td bgcolor="lightgreen"> <font color="Black">21</br> Sc </td>
+            <td bgcolor="lightgreen"> <font color="Black">22</br> Ti </td>
+            <td bgcolor="lightgreen"> <font color="Black">23</br> V </td>
+            <td bgcolor="lightgreen"> <font color="Black">24</br> Cr </td>
+            <td bgcolor="lightgreen"> <font color="Black">25</br> Mn </td>
+            <td bgcolor="lightgreen"> <font color="Black">26</br> Fe </td>
+            <td bgcolor="lightgreen"> <font color="Black">27</br> Co </td>
+            <td bgcolor="lightgreen"> <font color="Black">28</br> Ni </td>
+            <td bgcolor="lightgreen"> <font color="Black">29</br> Cu </td>
+            <td bgcolor="lightgreen"> <font color="Black">30</br> Zn </td>
+            <td bgcolor="Green"> <font color="Blue">31</br> Ga </td>
+            <td bgcolor="#B56510"> <font color="Black">32</br> Ge </td>
+            <td bgcolor="#B56510"> <font color="Black">33</br> As </td>
+            <td bgcolor="Orange"> <font color="green">34</br> Se </td>
+            <td bgcolor="lightyellow"> <font color="Purple">35</br> Br </td>
+            <td bgcolor="White"> <font color="green">36</br> Kr </td>
+        </tr>
+
+        <tr>
+            <td bgcolor="Pink"> <font color="Black">37</br> Kb </td>
+            <td bgcolor="lightblue"> <font color="Black">38</br> Sr </td>
+            <td bgcolor="lightgreen"> <font color="Black">39</br> Y </td>
+            <td bgcolor="lightgreen"> <font color="Black">40</br> Zr </td>
+            <td bgcolor="lightgreen"> <font color="Black">41</br> Nb </td>
+            <td bgcolor="lightgreen"> <font color="Black">42</br> Mo </td>
+            <td bgcolor="lightgreen"> <font color="Black">43</br> Tc </td>
+            <td bgcolor="lightgreen"> <font color="Black">44</br> Ru </td>
+            <td bgcolor="lightgreen"> <font color="Black">45</br> Rh </td>
+            <td bgcolor="lightgreen"> <font color="Black">46</br> Pd </td>
+            <td bgcolor="lightgreen"> <font color="Black">47</br> Ag </td>
+            <td bgcolor="lightgreen"> <font color="Black">48</br> Cd </td>
+            <td bgcolor="Green"> <font color="Black">49</br> In </td>
+            <td bgcolor="Green"> <font color="Black">50</br> Sn </td>
+            <td bgcolor="#B56510"> <font color="Black">51</br> Sb </td>
+            <td bgcolor="#B56510"> <font color="Black">52</br> Te </td>
+            <td bgcolor="lightyellow"> <font color="Black">53</br> I </td>
+            <td bgcolor="White"> <font color="green">54</br> Xe </td>
+        </tr>
+
+        <tr>
+            <td bgcolor="Pink"> <font color="Purple">55</br> Cs </td>
+            <td bgcolor="lightblue"> <font color="Black">56</br> Ba </td>
+            <td bgcolor="Pink"> <font color="Black">57-71</br> </td>
+            <td bgcolor="lightgreen"> <font color="Black">72</br> Hf </td>
+            <td bgcolor="lightgreen"> <font color="Black">73</br> Ta </td>
+            <td bgcolor="lightgreen"> <font color="Black">74</br> W </td>
+            <td bgcolor="lightgreen"> <font color="Black">75</br> Re </td>
+            <td bgcolor="lightgreen"> <font color="Black">76</br> Os </td>
+            <td bgcolor="lightgreen"> <font color="Black">77</br> Ir </td>
+            <td bgcolor="lightgreen"> <font color="Black">78</br> Pr </td>
+            <td bgcolor="lightgreen"> <font color="Black">79</br> Au </td>
+            <td bgcolor="lightgreen"> <font color="Purple">80</br> Hg </td>
+            <td bgcolor="Green"> <font color="Black">81</br> TI </td>
+            <td bgcolor="Green"> <font color="Black">82</br> Pb </td>
+            <td bgcolor="Green"> <font color="Black">83</br> Bi </td>
+            <td bgcolor="#B56510"> <font color="Black">84</br> Po </td>
+            <td bgcolor="lightyellow"> <font color="Black">85</br> At </td>
+            <td bgcolor="White"> <font color="green">86</br> Rn </td>
+        </tr>
+
+        <tr>
+            <td bgcolor="Pink"> <font color="Purple">87</br> H </td>
+            <td bgcolor="lightblue"> <font color="Black">88</br> H </td>
+            <td bgcolor="Pink"> <font color="black">89-</br> 103 </td>
+            <td bgcolor="Lightgreen"> <font color="Orange">104</br> Rf </td>
+            <td bgcolor="Lightgreen"> <font color="Orange">105</br> Db </td>
+            <td bgcolor="Lightgreen"> <font color="Orange">106</br> Sg </td>
+            <td bgcolor="Lightgreen"> <font color="Orange">107</br> Bh </td>
+            <td bgcolor="Lightgreen"> <font color="Orange">108</br> hs </td>
+            <td bgcolor="Lightgreen"> <font color="Orange">109</br> Mt </td>
+            <td bgcolor="Lightgreen"> <font color="Orange">110</br> Ds </td>
+            <td bgcolor="Lightgreen"> <font color="Orange">111</br> Rg </td>
+            <td bgcolor="lightgreen"> <font color="Orange">112</br> Cn </td>
+            <td bgcolor="White"> <font color="Orange">113</br> Nh </td>
+            <td bgcolor="White"> <font color="Orange">114</br> Fl </td>
+            <td bgcolor="White"> <font color="Orange">115</br> Mc </td>
+            <td bgcolor="White"> <font color="Orange">116</br> Lv </td>
+            <td bgcolor="White"> <font color="Orange">117</br> Ts </td>
+            <td bgcolor="White"> <font color="Orange">118</br> Og </td>
+        </tr>
+
+    </table>
+    
+</br>
+</br>
+<table style="text-align: Center " border="1" width="700">
+    <tr>
+        <td bgcolor="Pink"> <font color="black">57</br> La</td>
+        <td bgcolor="Pink"> <font color="black">58</br> Ce</td>
+        <td bgcolor="Pink"> <font color="black">59</br> Pr</td>
+        <td bgcolor="Pink"> <font color="black">60</br> Nd</td>
+            <td bgcolor="Pink"> <font color="Orange">61</br>Pm</td>
+            <td bgcolor="Pink"> <font color="black">62</br>Sm</td>
+            <td bgcolor="Pink"> <font color="black">63</br> Eu</td>
+            <td bgcolor="Pink"> <font color="black">64</br>Gd</td>
+            <td bgcolor="Pink"> <font color="black">65</br>Tb</td>
+            <td bgcolor="Pink"> <font color="black">66</br>Dy</td>
+            <td bgcolor="Pink"> <font color="black">67</br>Ho</td>
+            <td bgcolor="Pink"> <font color="black">68</br>Er</td>
+            <td bgcolor="Pink"> <font color="black">69</br>Tm</td>
+            <td bgcolor="Pink"> <font color="black">70</br> Yb</td>
+            <td bgcolor="Pink"> <font color="black">71</br> Lu</td>
+    </tr>
+
+    <tr>
+        <td bgcolor="Pink"> <font color="black">89</br>Ac</td>
+        <td bgcolor="Pink"> <font color="black">90</br>Th</td>
+        <td bgcolor="Pink"> <font color="black">91</br>Pa</td>
+        <td bgcolor="Pink"> <font color="black">92</br> U</td>
+        <td bgcolor="Pink"> <font color="Orange">93</br> H</td>
+        <td bgcolor="Pink"> <font color="Orange">94</br> H</td>
+        <td bgcolor="Pink"> <font color="Orange">95</br> H</td>
+        <td bgcolor="Pink"> <font color="Orange">96</br> H</td>
+        <td bgcolor="Pink"> <font color="Orange">97</br> H</td>
+        <td bgcolor="Pink"> <font color="Orange">98</br> H</td>
+        <td bgcolor="Pink"> <font color="Orange">99</br> H</td>
+        <td bgcolor="Pink"> <font color="Orange">100</br> H</td>
+        <td bgcolor="Pink"> <font color="Orange">101</br> H</td>
+        <td bgcolor="Pink"> <font color="Orange">102</br> H</td>
+        <td bgcolor="Pink"> <font color="Orange">103</br> H</td>
+</tr>
+
+</table>
+                </Center>
+    
+</body>
+</html>
