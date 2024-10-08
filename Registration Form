@@ -1,1 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registratoin Form</title>
+</head>
+<body>
+    <center>
+    <h1 style="background-color: rgb(231, 16, 16)"> Registration Form </h1>
+</center>
 
+    <form action="http://www.example.com/login.php">
+        <p>Name:
+         <input type="text" name="username" size="15"
+         maxlength="30" /> </p>
+        </form>
+       
+        <form action="http://www.example.com/login.php">
+            <p>Father Name:
+             <input type="text" name="Father Name" size="15"
+             maxlength="30" /> </p>
+            </form>
+            
+            <form action="http://www.example.com/login.php">
+                <p>CNIC No.:
+                 <input type="text" name="CNIC No." size="15"
+                 maxlength="30" /> </p>
+                </form>
+
+        <form action="http://www.example.com/login.php">
+            <p>Password:
+             <input type="text" name="Password" size="15"
+             maxlength="30" /> </p>
+            </form>
+
+            <form action="http://www.example.com/profile.php">
+                <p>Please select your Gender:
+                 <br />
+                 <input type="radio" name="genre" value="Male"
+                 checked="checked" /> Male
+                 <input type="radio" name="genre" value="Female" />
+                 Female
+                 <input type="radio" name="genre" value="Other" />
+                 Other
+                </p>
+                </form>
+
+                <form action="http://www.example.com/profile.php">
+                    <p>Select Your Course</p>
+                    <select name="devices">
+                     <option value="Web Development">Web Development</option>
+                     <option value="Graphic Designer">Graphic Designer</option>
+                     <option value="Cyber Security Fundamental">CyberSecurity Fundamental</option>
+                     <option value="Video Editing">Video Editing</option>
+                     <option value="Amazon">Amazon</option>
+                     </select>
+                    </form>
+
+                    <form action="http://www.example.com/upload.php"
+                    method="post">
+                    <p>Upload your Picutre:</p>
+                     <input type="file" name="user-Image" /><br />
+                    <input type="submit" value="Upload" />
+                    </form>
+                </br>
+                    <form action="http://www.example.com/add.php">
+                        <button><img src="SUBMIT.jpg" submit
+                         width="30" height="15" /> submit</button>
+                        <input type="hidden" name="bookmark"
+                         value="lyrics" />
+                        </form>
+</body>
+</html>
